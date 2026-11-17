@@ -5,7 +5,7 @@ import mediapipe as mp
 from time import sleep
 
 ACTIONS = np.array(['Hello', 'Yes', 'No'])
-NO_SEQUENCES = 30
+NO_SEQUENCES = 50
 SEQUENCE_LENGTH = 30
 DATA_PATH = 'data'
 

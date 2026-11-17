@@ -221,3 +221,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+data/
+sign_data.zip
+venv311/
+venv/
+*.h5
